@@ -1,5 +1,5 @@
 # DC_Crime_Analysis
-Objective here is to analyse Crime Trends in DC. Treied to uncover following questions --
+Objective here is to analyse Crime Trends in DC. Tried to uncover following questions --
 What were the top crimes in DC?
 Which year highest number of crimes were witnessed ?
 Which month had the highest crime rate?
